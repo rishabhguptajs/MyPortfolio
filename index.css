@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(33, 33, 33);
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.left_card{
+    border: 1px solid rgb(105, 105, 105);
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin: 30px;
+    border-radius: 30px;
+}
+.title{
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
